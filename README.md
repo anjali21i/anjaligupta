@@ -16,7 +16,7 @@
 
 ### Languages and Tools:
 [<img align="left" alt="anjali.com" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/java.svg" />][website]
-[<img align="left" alt="mohit.com" width="22px" src="https://github.com/gilbarbara/logos/blob/master/logos/spring.svg" />][website]
+[<img align="left" alt="anjali.com" width="22px" src="https://github.com/gilbarbara/logos/blob/master/logos/spring.svg" />][website]
 
 <br />
 <br />
