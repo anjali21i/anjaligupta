@@ -1,6 +1,6 @@
 ### Hi there, I'm Anjali 👋
 
-## I'm Passionate to learn and a Software developer
+## I'm Passionate to learn
 - 🔭 I’m currently working as Software Engineer!
 
 ### Connect with me:
